@@ -1,0 +1,23 @@
+os
+pytesseract
+pytorch
+pyttsx3
+numpy 
+TensorFlow
+tarfile
+zipfile
+time
+engine
+matplotlib
+opencv
+Protobuf 3.0.0
+Python-tk
+Pillow 1.0
+lxml
+tf-slim
+slim
+Jupyter notebook
+Matplotlib
+Cython
+context lib2
+cocoa
